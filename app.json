@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "minimalistic app build with react native.",
+    "githubUrl": "https://github.com/ferddecoded/react-native-weather-app"
   }
 }
